@@ -85,8 +85,8 @@ Payment Gateway System
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ChVMKiran/payment-gateway-2.O
-   cd payment-gateway-2.o
+   git clone https://github.com/MareeduManikanta123/payment_gateway_async.git
+   cd payment_gateway_async
    ```
 
 2. **Start all services**
